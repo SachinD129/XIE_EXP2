@@ -1,2 +1,2 @@
 # XIE_EXP2
-To perform Version control GIT
+To perform Version control using GIT
